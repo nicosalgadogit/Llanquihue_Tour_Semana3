@@ -25,7 +25,7 @@ Este proyecto corresponde a la actividad sumativa 1 de la Semana 3 de POO. Se tr
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone https://github.com/nicosalgadogit/Llanquihue_Tour_Semana3
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -38,7 +38,7 @@ git clone https://github.com/usuario/repositorio-evaluacion-final.git
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Repositorio GitHub:** \[https://github.com/nicosalgadogit/Llanquihue_Tour_Semana3]
 **Fecha de entrega:** \[08/06/2026]
 
 ---
